@@ -1,0 +1,61 @@
+,Región,Sexo,Edad,Centro_salud
+0,Antofagasta,Femenino,58,Hospital Carlos Cisternas Calama
+1,Antofagasta,Masculino,63,Hospital Carlos Cisternas Calama
+2,Atacama,Masculino,50,Hospital de Copiapó
+3,Metropolitana,Femenino,54,Clínica Alemana
+4,Metropolitana,Femenino,40,Clínica Santa María
+5,Metropolitana,Masculino,58,Clínica Alemana
+6,Metropolitana,Masculino,17,Clínica Alemana
+7,Metropolitana,Femenino,83,Clínica Las Condes
+8,Metropolitana,Masculino,14,Clínica Alemana
+9,Metropolitana,Masculino,42,Clínica U. de Los Andes
+10,Metropolitana,Masculino,40,Clínica U. de Los Andes
+11,Metropolitana,Femenino,31,Clínica Santa María
+12,Metropolitana,Femenino,32,Clínica Alemana
+13,Metropolitana,Femenino,58,Clínica Santa María
+14,Metropolitana,Femenino,48,Clínica Alemana
+15,Metropolitana,Femenino,23,Hospital de Carabineros
+16,Metropolitana,Masculino,26,Red de Salud UC-Christus San Carlos de Apoquindo
+17,Metropolitana,Femenino,46,Clínica Alemana
+18,Metropolitana,Masculino,67,Clínica Alemana
+19,Metropolitana,Femenino,31,Clínica Alemana
+20,Metropolitana,Femenino,46,Clínica Alemana
+21,Metropolitana,Masculino,23,Clínica Alemana
+22,Metropolitana,Femenino,34,Clínica Tabancura
+23,Metropolitana,Femenino,29,Clínica Las Condes
+24,Metropolitana,Femenino,28,Clínica Las Condes
+25,Metropolitana,Femenino,21,Laboratorio Integramédica
+26,Metropolitana,Masculino,35,Clínica Red Salud Santiago
+27,Metropolitana,Femenino,50,Clínica Tabancura
+28,Metropolitana,Masculino,31,Clínica U. de Los Andes
+29,Metropolitana,Masculino,47,Clínica Indisa
+30,Metropolitana,Masculino,39,Red de Salud UC-Christus San Carlos de Apoquindo
+31,Metropolitana,Femenino,37,Laboratorio Integramédica
+32,Metropolitana,Masculino,28,Pontificia Universidad Católica
+33,Metropolitana,Masculino,29,Red de Salud UC-Christus San Carlos de Apoquindo
+34,Metropolitana,Masculino,28,Clínica U. de Los Andes
+35,Metropolitana,Masculino,53,Clínica Indisa
+36,Metropolitana,Masculino,38,Laboratorio Integramédica
+37,Metropolitana,Femenino,55,Laboratorio Bionet
+38,Metropolitana,Femenino,51,Laboratorio Integramédica
+39,Metropolitana,Femenino,23,Clínica Santa María
+40,Metropolitana,Masculino,36,Clínica Las Condes
+41,Metropolitana,Femenino,58,Clínica Las Condes
+42,Maule,Masculino,33,Hospital de Talca
+43,Maule,Femenino,33,Hospital de Talca
+44,Maule,Masculino,39,Hospital de Talca
+45,Maule,Femenino,2,Hospital de Talca
+46,Maule,Masculino,21,Hospital de Talca
+47,Maule,Femenino,24,Hospital de Talca
+48,Maule,Masculino,29,Hospital de Curicó
+49,Maule,Femenino,38,Hospital de Talca
+50,Maule,Masculino,53,Hospital de Talca
+51,Ñuble,Masculino,29,Clínica de Chillán
+52,Ñuble,Masculino,16,Hospital de Chillán
+53,Ñuble,Masculino,23,Hospital de Chillán
+54,Ñuble,Masculino,23,Clínica de Chillán
+55,Biobío,Masculino,38,Hospital de Los Ángeles
+56,Biobío,Masculino,34,Hospital G. Grant Benavente
+57,Biobío,Masculino,32,Clínica Universitaria
+58,Los Lagos,Femenino,20,Hospital de Puerto Montt
+59,Aysén,Masculino,83,Hospital de Aysén
