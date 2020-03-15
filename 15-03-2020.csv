@@ -42,21 +42,35 @@
 40,Metropolitana,Femenino,23,Clínica Santa María
 41,Metropolitana,Masculino,36,Clínica Las Condes
 42,Metropolitana,Femenino,58,Clínica Las Condes
-43,Maule,Masculino,33,Hospital de Talca
-44,Maule,Femenino,33,Hospital de Talca
-45,Maule,Masculino,39,Hospital de Talca
-46,Maule,Femenino,2,Hospital de Talca
-47,Maule,Masculino,21,Hospital de Talca
-48,Maule,Femenino,24,Hospital de Talca
-49,Maule,Masculino,29,Hospital de Curicó
-50,Maule,Femenino,38,Hospital de Talca
-51,Maule,Masculino,53,Hospital de Talca
-52,Ñuble,Masculino,29,Clínica de Chillán
-53,Ñuble,Masculino,16,Hospital de Chillán
-54,Ñuble,Masculino,23,Hospital de Chillán
-55,Ñuble,Masculino,23,Clínica de Chillán
-56,Biobío,Masculino,38,Hospital de Los Ángeles
-57,Biobío,Masculino,34,Hospital G. Grant Benavente
-58,Biobío,Masculino,32,Clínica Universitaria
-59,Los Lagos,Femenino,20,Hospital de Puerto Montt
-60,Aysén,Masculino,83,Hospital de Aysén
+43,Metropolitana,Masculino,42,Laboratorio Bionet
+44,Metropolitana,Femenino,49,Hospital del Trabajador
+45,Metropolitana,Masculino,29,Clínica U. de Los Andes
+46,Metropolitana,Masculino,61,Red de Salud UC-Christus San Carlos de Apoquindo
+47,Metropolitana,Femenino,15,Red de Salud UC-Christus San Carlos de Apoquindo
+48,Metropolitana,Masculino,—,Megasalud. S. A.
+49,Metropolitana,Masculino,42,Mutual de Seguridad
+50,Metropolitana,Femenino,48,Clinica Alemana
+51,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo
+52,Metropolitana,Masculino,29,Clinica Vespucio
+53,Metropolitana,Masculino,24,Red de Salud UC-Christus San Carlos de Apoquindo
+54,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo
+55,Metropolitana,Masculino,70,Clínica U. de Los Andes
+56,Metropolitana,Femenino,58,Clínica Las Condes
+57,Maule,Masculino,33,Hospital de Talca
+58,Maule,Femenino,33,Hospital de Talca
+59,Maule,Masculino,39,Hospital de Talca
+60,Maule,Femenino,2,Hospital de Talca
+61,Maule,Masculino,21,Hospital de Talca
+62,Maule,Femenino,24,Hospital de Talca
+63,Maule,Masculino,29,Hospital de Curicó
+64,Maule,Femenino,38,Hospital de Talca
+65,Maule,Masculino,53,Hospital de Talca
+66,Ñuble,Masculino,29,Clínica de Chillán
+67,Ñuble,Masculino,16,Hospital de Chillán
+68,Ñuble,Masculino,23,Hospital de Chillán
+69,Ñuble,Masculino,23,Clínica de Chillán
+70,Biobío,Masculino,38,Hospital de Los Ángeles
+71,Biobío,Masculino,34,Hospital G. Grant Benavente
+72,Biobío,Masculino,32,Clínica Universitaria
+73,Los Lagos,Femenino,20,Hospital de Puerto Montt
+74,Aysén,Masculino,83,Hospital de Aysén
