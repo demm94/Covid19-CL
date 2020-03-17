@@ -1,0 +1,202 @@
+,Región,Sexo,Edad,Centro_salud
+0,Antofagasta,Femenino,58,Hospital Carlos Cisternas  Calama
+1,Antofagasta,Masculino,63,Hospital Carlos Cisternas  Calama
+2,Atacama,Masculino,50,Hospital de Copiapó
+3,Valparaíso,Masculino,34,Clínica Ciudad del Mar
+4,Metropolitana,Femenino,54,Clínica Alemana
+5,Metropolitana,Femenino,40,Clínica Santa María
+6,Metropolitana,Masculino,58,Clínica Alemana
+7,Metropolitana,Masculino,17,Clínica Alemana
+8,Metropolitana,Femenino,83,Clínica Las Condes
+9,Metropolitana,Masculino,14,Clínica Alemana
+10,Metropolitana,Masculino,42,Clínica U. de Los Andes
+11,Metropolitana,Masculino,40,Clínica U. de Los Andes
+12,Metropolitana,Femenino,31,Clínica Santa María
+13,Metropolitana,Femenino,32,Clínica Alemana
+14,Metropolitana,Femenino,58,Clínica Santa María
+15,Metropolitana,Femenino,48,Clínica Alemana
+16,Metropolitana,Femenino,23,Hospital de Carabineros
+17,Metropolitana,Masculino,26,Red de Salud UC-Christus San Carlos de Apoquindo
+18,Metropolitana,Femenino,46,Clínica Alemana
+19,Metropolitana,Masculino,67,Clínica Alemana
+20,Metropolitana,Femenino,31,Clínica Alemana
+21,Metropolitana,Femenino,46,Clínica Alemana
+22,Metropolitana,Masculino,23,Clínica Alemana
+23,Metropolitana,Femenino,34,Clínica Tabancura
+24,Metropolitana,Femenino,29,Clínica Las Condes
+25,Metropolitana,Femenino,28,Clínica Las Condes
+26,Metropolitana,Femenino,21,Laboratorio Integramédica
+27,Metropolitana,Masculino,35,Clínica Red Salud Santiago
+28,Metropolitana,Femenino,50,Clínica Tabancura
+29,Metropolitana,Masculino,—,Red Salud Vitacura
+30,Metropolitana,Masculino,31,Clínica U. de Los Andes
+31,Metropolitana,Masculino,47,Clínica Indisa
+32,Metropolitana,Masculino,39,Red de Salud UC-Christus San Carlos de Apoquindo
+33,Metropolitana,Femenino,37,Laboratorio Integramédica
+34,Metropolitana,Masculino,28,Pontificia Universidad Católica
+35,Metropolitana,Masculino,29,Red de Salud UC-Christus San Carlos de Apoquindo
+36,Metropolitana,Masculino,28,Clínica U. de Los Andes
+37,Metropolitana,Masculino,53,Clínica Indisa
+38,Metropolitana,Masculino,38,Laboratorio Integramédica
+39,Metropolitana,Femenino,55,Laboratorio Bionet
+40,Metropolitana,Femenino,51,Laboratorio Integramédica
+41,Metropolitana,Femenino,23,Clínica Santa María
+42,Metropolitana,Masculino,36,Clínica Las Condes
+43,Metropolitana,Femenino,58,Clínica Las Condes
+44,Metropolitana,Masculino,42,Laboratorio Bionet
+45,Metropolitana,Femenino,49,Hospital del trabajador
+46,Metropolitana,Masculino,29,Clínica U. de Los Andes
+47,Metropolitana,Masculino,61,Red de Salud UC-Christus San Carlos de Apoquindo
+48,Metropolitana,Femenino,15,Red de Salud UC-Christus San Carlos de Apoquindo
+49,Metropolitana,Masculino,—,Megasalud. S. A.
+50,Metropolitana,Masculino,42,Mutual de Seguridad
+51,Metropolitana,Femenino,48,Clinica Alemana
+52,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo
+53,Metropolitana,Masculino,29,Clinica Vespucio
+54,Metropolitana,Masculino,24,Red de Salud UC-Christus San Carlos de Apoquindo
+55,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo
+56,Metropolitana,Masculino,70,Clínica U. de Los Andes
+57,Metropolitana,Femenino,58,Clínica Las Condes
+58,Metropolitana,Masculino,43,Hospital San juan de Dios
+59,Metropolitana,Femenino,45,Hospital San juan de Dios
+60,Metropolitana,Femenino,38,Hospital del Trabajador
+61,Metropolitana,Femenino,53,Hospital del Profesor
+62,Metropolitana,Femenino,38,Bioxell Laboratorio Clinico  Ltda.
+63,Metropolitana,Femenino,32,Megasalud. S. A.
+64,Metropolitana,Femenino,39,Clinica  Las Condes
+65,Metropolitana,Masculino,35,Mutual de Seguridad
+66,Metropolitana,Femenino,32,Clinica UC San Carlos de Apoquindo
+67,Metropolitana,Masculino,31,Clinica UC San Carlos de Apoquindo
+68,Metropolitana,Masculino,46,Clinica UC San Carlos de Apoquindo
+69,Metropolitana,Femenino,35,Clinica UC San Carlos de Apoquindo
+70,Metropolitana,Femenino,63,Integramédica
+71,Metropolitana,Femenino,62,Integramédica
+72,Metropolitana,Femenino,62,Integramédica
+73,Metropolitana,Masculino,52,Laboratorio Bionet
+74,Metropolitana,Femenino,34,Laboratorio Bionet
+75,Metropolitana,Femenino,33,Clinica  Dávila
+76,Metropolitana,Masculino,42,Clinica  Dávila
+77,Metropolitana,Femenino,29,Clinica  Dávila
+78,Metropolitana,Masculino,28,Clínica Alemana
+79,Metropolitana,Femenino,27,Clínica Alemana
+80,Metropolitana,Masculino,40,Clínica Alemana
+81,Metropolitana,Femenino,24,Clínica Alemana
+82,Metropolitana,Femenino,49,Clínica Alemana
+83,Metropolitana,Femenino,—,Clínica Alemana
+84,Metropolitana,Masculino,33,Clínica Alemana
+85,Metropolitana,Femenino,29,Clínica Alemana
+86,Metropolitana,Masculino,59,Clínica Alemana
+87,Metropolitana,Masculino,13,Clínica Alemana
+88,Metropolitana,Masculino,33,Clínica Alemana
+89,Metropolitana,Masculino,33,Clínica Alemana
+90,Metropolitana,Masculino,45,Clínica Alemana
+91,Metropolitana,Masculino,41,Clínica Alemana
+92,Metropolitana,Femenino,29,Clínica Alemana
+93,Metropolitana,Masculino,37,Clínica Alemana
+94,Metropolitana,Femenino,40,Clínica Alemana
+95,Metropolitana,Masculino,58,Clínica Alemana
+96,Metropolitana,Femenino,31,Clínica Alemana
+97,Metropolitana,Masculino,48,Clínica Alemana
+98,Metropolitana,Masculino,41,Clínica Alemana
+99,Metropolitana,Femenino,45,Clínica Alemana
+100,Metropolitana,Femenino,33,Clínica Alemana
+101,Metropolitana,Femenino,54,Clínica Alemana
+102,Metropolitana,Femenino,40,Clínica Alemana
+103,Metropolitana,Femenino,27,Clínica Santa María
+104,Metropolitana,Femenino,23,Clínica Santa María
+105,Metropolitana,Femenino,39,Clínica Santa María
+106,Metropolitana,Femenino,41,Clínica Santa María
+107,Metropolitana,Masculino,43,Clínica Santa María
+108,Metropolitana,Femenino,49,Clínica Santa María
+109,Metropolitana,Femenino,30,Clínica Santa María
+110,Metropolitana,Femenino,35,Clínica Santa María
+111,Metropolitana,Femenino,46,Clínica Santa María
+112,Metropolitana,Femenino,31,Clínica Santa María
+113,Metropolitana,Masculino,40,Clínica Santa María
+114,Metropolitana,Femenino,44,Clínica Santa María
+115,Metropolitana,Femenino,42,Clínica Santa María
+116,Metropolitana,Femenino,43,Clínica Santa María
+117,Metropolitana,Femenino,39,Clínica Santa María
+118,Metropolitana,Femenino,26,Clínica Santa María
+119,Metropolitana,Masculino,46,Clínica Santa María
+120,Metropolitana,Femenino,41,Clínica Santa María
+121,Metropolitana,Masculino,51,Clínica Santa María
+122,Metropolitana,Femenino,31,Clínica Santa María
+123,Metropolitana,Femenino,1,Clínica Santa María
+124,Metropolitana,Femenino,5,Clínica Santa María
+125,Metropolitana,Masculino,45,Clínica Santa María
+126,Metropolitana,Femenino,29,Clinica  Las Condes
+127,Metropolitana,Femenino,61,Mutual de Seguridad
+128,Metropolitana,Masculino,33,Mutual de Seguridad
+129,Metropolitana,Femenino,48,Clinica Alemana
+130,Metropolitana,Masculino,31,Clinica Alemana
+131,Metropolitana,Masculino,32,Clinica Alemana
+132,Metropolitana,Femenino,56,Clinica Alemana
+133,Metropolitana,Masculino,56,Clinica Alemana
+134,Metropolitana,Femenino,75,Hospital La Florida
+135,Metropolitana,Femenino,47,Hospital del Salvador
+136,Metropolitana,Masculino,36,Laboratorio Bionet
+137,Metropolitana,Masculino,45,Clinica Las Condes
+138,Metropolitana,Femenino,38,Clinica Las Condes
+139,Metropolitana,Femenino,41,Clinica Las Condes
+140,Metropolitana,Masculino,29,Clinica Las Condes
+141,Metropolitana,Masculino,57,Clinica Dávila
+142,Metropolitana,Femenino,43,Hospital del Trabajador
+143,Metropolitana,Femenino,44,Clinica U. Andes
+144,Metropolitana,Femenino,50,Hospital Lucio Córdova
+145,Metropolitana,Femenino,22,Hospital San juan de Dios
+146,Metropolitana,Masculino,39,Hospital San juan de Dios
+147,Metropolitana,Masculino,43,Clinica San Carlos de  Apoquindo
+148,Metropolitana,Masculino,35,Clinica Vespucio
+149,Metropolitana,Femenino,16,Clinica Alemana
+150,Metropolitana,Femenino,50,Clinica Alemana
+151,Metropolitana,Masculino,56,Clinica Alemana
+152,Metropolitana,Masculino,49,Clinica Alemana
+153,Metropolitana,Masculino,28,Clinica Alemana
+154,Metropolitana,Femenino,34,Clinica Alemana
+155,Metropolitana,Masculino,73,Clinica Alemana
+156,Maule,Masculino,33,Hospital de Talca
+157,Maule,Femenino,33,Hospital de Talca
+158,Maule,Masculino,39,Hospital de Talca
+159,Maule,Femenino,2,Hospital de Talca
+160,Maule,Masculino,21,Hospital de Talca
+161,Maule,Femenino,24,Hospital de Talca
+162,Maule,Masculino,29,Hospital de Curicó
+163,Maule,Femenino,38,Hospital de Talca
+164,Maule,Masculino,53,Hospital de Talca
+165,Ñuble,Masculino,29,Clínica de Chillán
+166,Ñuble,Masculino,16,Hospital de Chillán
+167,Ñuble,Masculino,25,Hospital de Chillán
+168,Ñuble,Masculino,23,Clínica de Chillán
+169,Ñuble,Masculino,38,Clínica de Chillán
+170,Ñuble,Masculino,26,Clínica de Chillán
+171,Ñuble,Femenino,42,Clínica de Chillán
+172,Ñuble,Femenino,38,Hospital de Chillán
+173,Ñuble,Masculino,32,Clínica de Chillán
+174,Ñuble,Masculino,31,Hospital de Chillán
+175,Ñuble,Masculino,24,Hospital de Chillán
+176,Ñuble,Masculino,39,Clínica de Chillán
+177,Ñuble,Femenino,33,Hospital de Chillán
+178,Ñuble,Femenino,29,Hospital de Chillán
+179,Ñuble,Masculino,43,Hospital de Chillán
+180,Ñuble,Femenino,27,Hospital de Chillán
+181,Ñuble,Femenino,37,Clínica de Chillán
+182,Ñuble,Masculino,40,Hospital de Chillán
+183,Ñuble,Femenino,27,Hospital de Chillán
+184,Ñuble,Masculino,36,Clínica de Chillán
+185,Ñuble,Femenino,30,Hospital de Chillán
+186,Ñuble,Femenino,26,Hospital de Chillán
+187,Ñuble,Masculino,29,Hospital de Chillán
+188,Ñuble,Masculino,32,Hospital de Chillán
+189,Ñuble,Masculino,48,Hospital de Chillán
+190,Ñuble,Femenino,31,Clinica de Chillán
+191,Biobío,Masculino,38,Hospital de Los Ángeles
+192,Biobío,Masculino,34,Hospital G. Grant Benavente
+193,Biobío,Masculino,32,Clínica Universitaria
+194,Biobío,Femenino,47,Clinica Biobío
+195,Araucanía,Masculino,35,Hospital Hernán Henríquez  Aravena
+196,Los Ríos,Femenino,1,Clinica Alemana Valdivia
+197,Los Lagos,Femenino,20,Hospital de Puerto Montt
+198,Aysén,Masculino,83,Hospital de Aysén
+199,Magallanes,Masculino,70,Clínica Magallanes
+200,Magallanes,Masculino,23,Hospital de Punta Arenas
